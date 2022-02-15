@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mauzapata
 - 👀 I’m interested in ... Code.
-- 🌱 I’m currently learning ...Code.
+- 🌱 I’m currently learning ...Laravel, MySQL, Vue.Js.
 - 📫 How to reach me ...Mau.zapata95@gmail.com
 
 <!---
